@@ -6,3 +6,4 @@ Organization and regulation of paraventricular nucleus glutamate signaling syste
 
 
 ![Plot of WO and NL beer consumption data](https://github.com/OscardeKeijzer/CS_Assignment/blob/master/plot.png)
+More data is needed before judging the correlation between the number of WO students and total beer consumption per year in the Netherlands.
